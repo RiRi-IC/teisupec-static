@@ -1,0 +1,1 @@
+# teisupec-static
